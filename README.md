@@ -1,21 +1,26 @@
-# Clustering-Assignment-102103145
-In this assignment we had to perform different clustering algorithms using different pre-processing techniques with different numbers of clusters on different evaluation parameters.
+# Clustering Using Pycaret
+Performing different clustering algorithms using pre-processing techniques with different number of clusters and then comapring the results.
 
-I have used Pycaret in this assignment.
 
-The dataset that I have used is Iris Dataset.
+# Dataset
 
 The three clustering techniques I have used are:
 1. K means Clustering
-2. Hierarchical Clustering
-3. DBSCAN
+   ![k-means-clustering-algorithm-in-machine-learning](https://github.com/akshita79/clustering_using_pycaret/assets/92212914/916c44c3-a6dc-43c3-9331-46c2e55d6af3)
 
-The Parameters I have taken are:
+3. Hierarchical Clustering
+   ![1*VvOVxdBb74IOxxF2RmthCQ](https://github.com/akshita79/clustering_using_pycaret/assets/92212914/11bd976a-029f-4663-9a45-132c50ffebc2)
+
+4. DBSCAN
+   ![fig-1-300x300](https://github.com/akshita79/clustering_using_pycaret/assets/92212914/753f2918-0255-418f-b22e-1a65cec93a23)
+
+
+# Evaluation Parameters:
 1. Silhouette
 2. Calinski-Harabasz
 3. Davies-Bouldin
 
-The Pre-Processing techniques I have used are:
+# The Pre-Processing techniques:
 1. Normalization
 2. PCA (Principle Component Analysis)
 3. Transform
@@ -29,7 +34,4 @@ The graphs of the different clustering algorithms are given below:
 <img width="845" alt="Screenshot 2024-02-09 at 6 09 24 PM" src="https://github.com/gandhi25samar/Clustering-Assignment-102103145/assets/95834377/ca2e27f0-23a2-40ad-b969-3e95fe4b7f3c">
 
 
-### Submitted By:
-### Samarjeet Singh Gandhi
-### 102103145
-### 3COE5
+
