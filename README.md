@@ -6,7 +6,7 @@ Performing different clustering algorithms using pre-processing techniques with 
 
 The three clustering techniques I have used are:
 1. K means Clustering
-   ![k-means-clustering-algorithm-in-machine-learning](https://github.com/akshita79/clustering_using_pycaret/assets/92212914/916c44c3-a6dc-43c3-9331-46c2e55d6af3 | width=100)
+   ![k-means-clustering-algorithm-in-machine-learning width="200" height="400"](https://github.com/akshita79/clustering_using_pycaret/assets/92212914/916c44c3-a6dc-43c3-9331-46c2e55d6af3 )
 
 3. Hierarchical Clustering
    ![1*VvOVxdBb74IOxxF2RmthCQ](https://github.com/akshita79/clustering_using_pycaret/assets/92212914/11bd976a-029f-4663-9a45-132c50ffebc2)
